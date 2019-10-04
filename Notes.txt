@@ -1,1 +1,8 @@
 install Sass in react project => {npm install node-sass}
+
+GIT => {
+     git init
+     git remote add origin https://github.com/kade-shikaal/Clothing.git
+     git add -A
+     git commit -m "created react app and added files for homepage"
+}
